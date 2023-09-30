@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  },
+  "dependencies": {
+    "flowbite": "^1.8.1"
+  },
+
+  "scripts": {
+    "test": "echo \"Error: nenhum testo especifico\" && exit 1",
+    "tailwind": "npx tailwindcss -i ./static/src/input.css -o ./static/css/main.css --watch"
+  }
+}
