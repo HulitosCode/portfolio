@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="perfil profissional" src=".github/perfil.png" width="100%">
+  <img alt="perfil profissional" src=".github/perfil.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
