@@ -33,12 +33,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Portifolio é um perfil profissional onde falo sobre que sou, e sobre minhas habilidades.
 
 - [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
-
-
-## 🔖 Layout
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
-
----
