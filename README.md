@@ -30,10 +30,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Deploy via Vercel
 
-1- Instalar NodeJs
-2- Instalar  npm i -g vercel
-3- Criar uma pasta Api e colocar os templates, arquivo principal e pasta static
-4- Criar um arquivo vercel.json e inserir o script
+- Instalar NodeJs
+- Instalar  npm i -g vercel
+- Criar uma pasta Api e colocar os templates, arquivo principal e pasta static
+- Criar um arquivo vercel.json e inserir o script
     {
 
         "rewrites": [
@@ -44,7 +44,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
     }
 
-5- Instalar pip freezee > requirements.txt
+- Instalar pip freezee > requirements.txt
 
 ## 💻 Projeto
 
