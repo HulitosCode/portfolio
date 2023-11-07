@@ -28,6 +28,24 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Python
 - Flask
 
+## Deploy via Vercel
+
+1- Instalar NodeJs
+2- Instalar  npm i -g vercel
+3- Criar uma pasta Api e colocar os templates, arquivo principal e pasta static
+4- Criar um arquivo vercel.json e inserir o script
+    {
+
+        "rewrites": [
+
+            { "source": "/(.*)", "destination": "/api/app" }
+
+        ]
+
+    }
+
+5- Instalar pip freezee > requirements.txt
+
 ## 💻 Projeto
 
 Portifolio é um perfil profissional onde falo sobre que sou, e sobre minhas habilidades.
